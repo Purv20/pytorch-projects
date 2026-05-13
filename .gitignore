@@ -13,3 +13,10 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+data/processed_data/
+
+*.zip
+
+# Model weights
+*.pth
