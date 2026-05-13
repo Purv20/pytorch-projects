@@ -20,3 +20,7 @@ data/processed_data/
 
 # Model weights
 *.pth
+
+happy.jpg
+sad.jpg
+surprised.jpg
