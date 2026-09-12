@@ -6,15 +6,15 @@ A comprehensive, hands-on repository dedicated to Deep Learning in **PyTorch**, 
 
 ## 📌 Project Architecture & Overview
 
-| File / Module | Category | Primary Focus & Architecture | Level |
-| :--- | :--- | :--- | :--- |
-| **[00pytorch.ipynb](00pytorch.ipynb)** | Core Foundations | Tensor operations, GPU acceleration (`cuda`), NumPy bridge, random reproducibility seeds. | Basic |
-| **[01workflow.ipynb](01workflow.ipynb)** | Core Workflow | End-to-end ML pipeline, Linear Regression, `nn.Module`, training/evaluation loops, model saving/loading. | Basic |
-| **[02binaryclassfication.ipynb](02binaryclassfication.ipynb)** | Classification | Synthetic circles, decision boundaries, `ReLU` non-linearity, `BCEWithLogitsLoss`. | Basic–Intermediate |
-| **[03multiclassclassification.ipynb](03multiclassclassification.ipynb)** | Classification | Multi-class synthetic blobs/moons, `BlobModel`, `CrossEntropyLoss`, Softmax probability mapping. | Intermediate |
-| **[04computervision.ipynb](04computervision.ipynb)** | Computer Vision | **FashionMNIST**, `DataLoader` batching, Baseline Linear vs CNN (**TinyVGG**), confusion matrix evaluation. | Intermediate–Advanced |
-| **[05customdatasets.ipynb](05customdatasets.ipynb)** | Data Engineering | Custom `torch.utils.data.Dataset` subclass, `ImageFolder`, Data Augmentation transforms, TinyVGG training. | Advanced |
-| **[facialEmotionDetectorCNN.ipynb](facialEmotionDetectorCNN.ipynb)** | **Standalone Project** | **Real-Time Facial Emotion Recognition CNN (`CNNv2`), OpenCV live webcam inference pipeline.** | **Project Highlight** |
+| File / Module | Category | Primary Focus & Architecture |
+| :--- | :--- | :--- |
+| **[00pytorch.ipynb](00pytorch.ipynb)** | Core Foundations | Tensor operations, GPU acceleration (`cuda`), NumPy bridge, random reproducibility seeds. |
+| **[01workflow.ipynb](01workflow.ipynb)** | Core Workflow | End-to-end ML pipeline, Linear Regression, `nn.Module`, training/evaluation loops, model saving/loading. |
+| **[02binaryclassfication.ipynb](02binaryclassfication.ipynb)** | Classification | Synthetic circles, decision boundaries, `ReLU` non-linearity, `BCEWithLogitsLoss`. |
+| **[03multiclassclassification.ipynb](03multiclassclassification.ipynb)** | Classification | Multi-class synthetic blobs/moons, `BlobModel`, `CrossEntropyLoss`, Softmax probability mapping. |
+| **[04computervision.ipynb](04computervision.ipynb)** | Computer Vision | **FashionMNIST**, `DataLoader` batching, Baseline Linear vs CNN (**TinyVGG**), confusion matrix evaluation. |
+| **[05customdatasets.ipynb](05customdatasets.ipynb)** | Data Engineering | Custom `torch.utils.data.Dataset` subclass, `ImageFolder`, Data Augmentation transforms, TinyVGG training. |
+| **[facialEmotionDetectorCNN.ipynb](facialEmotionDetectorCNN.ipynb)** | **Standalone Project** | **Real-Time Facial Emotion Recognition CNN (`CNNv2`), OpenCV live webcam inference pipeline.** |
 
 ---
 
